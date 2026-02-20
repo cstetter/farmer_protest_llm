@@ -18,3 +18,9 @@ data/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Excel
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
